@@ -1,12 +1,9 @@
 # Ihis repo is for testing purposes only
 
 ## 📖 Quick Index
-- listen
 
 
-[tts.webm](https://github.com/user-attachments/assets/b4411999-2cda-42c9-a1d9-e936391eab30)
-
-
+<!--
 - [💡 Insight](#insight)
 - - [💡 Insight](#insightx)
 
