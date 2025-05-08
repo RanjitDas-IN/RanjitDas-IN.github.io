@@ -29,6 +29,8 @@ My email: ranjitdax89@gmail.com
 - [💡 Insight](#insight)
 - [✨ Key Features](#key-features)
 - [⬇️ Installation](#installation)
+- [📚 Examples](#examples)
+- [📚 Requirements](#requirements)
 
 
 ## 💡Insight
@@ -66,4 +68,23 @@ pip install .
 ```
 
 GitHub&emsp;[![GitHub Repo](https://img.shields.io/badge/GitHub__Repo-black?logo=github&style=social)](https://github.com/RanjitDas-IN/tts-accelerator)
+
+
+
+## 📚Examples
+
+Simple Usage:
+
+```python
+import tts_accelerator as tts
+
+text = ("""Hello, 'TTS-Accelerator' achieves near-instant speech generation. Converting extremely long texts (up to 16 thousand + characters) into natural voices, high-quality audio within just 2–3 seconds, delivering breakthrough real-time performance without sacrificing voice clarity. Thank you!!""")
+
+tts.speak_text(text)
+# it will generate the audio in less then 3 seconds regardless of number of lines in the 'text variable'
+```
+
+## 📦Requirements
+
+- Python _v3.8+_
 
