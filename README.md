@@ -36,7 +36,6 @@ My email: ranjitdax89@gmail.com
 ## 💡Insight
 
 
-
 TTS Accelerator is a smart and powerful tool that turns text into speech super fast. You can give it a really long paragraph — even up to 16,000 characters — and it starts speaking in just **2 seconds**.
 
 Most other TTS systems wait until the full audio is ready before they start, which can take ages. *But this one is different* — it starts playing while it’s still generating. So, you can hear the voice as soon as the script runs — no matter how long the text is. The result? Natural, smooth speech with no delay.
@@ -70,7 +69,6 @@ pip install .
 GitHub&emsp;[![GitHub Repo](https://img.shields.io/badge/GitHub__Repo-black?logo=github&style=social)](https://github.com/RanjitDas-IN/tts-accelerator)
 
 
-
 ## 📚Examples
 
 Simple Usage:
@@ -87,4 +85,3 @@ tts.speak_text(text)
 ## 📦Requirements
 
 - Python _v3.8+_
-
