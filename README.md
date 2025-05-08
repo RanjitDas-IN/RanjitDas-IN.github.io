@@ -50,7 +50,7 @@ Most other TTS systems wait until the full audio is ready before they start, whi
 - **Minimal API**: Just a single function call to start speaking — `speak_text(text)`.
 - **Zero-Delay Playback**: Audio plays with zero delay, It is a smart system that uses fast RAM-based buffering and a separate producer-consumer pipeline to keep things smooth and super quick.
 
-## 💡Installation
+## ⬇️Installation
 You can install it from [PyPI](https://pypi.org/project/tts-accelerator/) by running the following command:
 
 ```
