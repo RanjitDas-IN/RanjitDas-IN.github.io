@@ -1,8 +1,34 @@
 ## This repo is for testing purposes only
+
+## TTS Accelerator
+
+> *Real-time natural speech generation in seconds, even for extremely long sentences up to 16k words.*
+
+> This library can turn **text into speech** almost instantly. Even if you give it a super long paragraph — up to 16,000+ words — it doesn’t takes too much time. It starts speaking in just 2 seconds, making it feel like real-time talking without losing the voice quality.
+
+[![PyPI version](https://badge.fury.io/py/tts-accelerator.svg)](https://pypi.org/project/tts-accelerator/)&emsp;&emsp;
+[![Download](https://pepy.tech/badge/tts-accelerator)](https://pepy.tech/project/tts-accelerator)
+
+
+
+Want to ask questions or share ideas?  
+👉&emsp;[![](https://dcbadge.vercel.app/api/server/JVzAfRjyxV?style=flat&compact=True)](https://discord.gg/JVzAfRjyxV)
+&emsp;— we're active and friendly!
+
+
+💡 **Actively Developed & Maintained**: This project is continuously improved with regular updates, bug fixes, and support. You're never alone — the journey keeps moving forward! 🚀🔧
+[![GitHub Repo](https://img.shields.io/badge/GitHub__Repo-black?logo=github&style=flat)](https://github.com/RanjitDas-IN/tts-accelerator)&emsp;&emsp;
+[![GitHub Repo](https://img.shields.io/badge/GitHub__Repo-black?logo=github&style=social)](https://github.com/RanjitDas-IN/tts-accelerator)
+
+Feel free to reach out, open issues, or suggest ideas — we’re building this together. 🤝
+
+My email: ranjitdax89@gmail.com
+---
 ## 📖 Quick Index
 
 - [💡 Insight](#insight)
 - [✨ Key Features](#key-features)
+- [⬇️ Installation](#installation)
 
 
 ## 💡Insight
@@ -16,11 +42,28 @@ Most other TTS systems wait until the full audio is ready before they start, whi
 
 ## ✨Key Features
 
-- *Real-Time TTS*: Speak extremely long texts within 2–3 seconds startup.
-- *Compatible with Any Library*: Works with local TTS engines (like Edge-TTS) and even API-based services (like ElevenLabs, Typecast.ai, etc.).
-- *Streaming Playback*: **Audio starts playing while it is still being generated.**
-- *Library-Independent Core*: Easily pluggable with your preferred TTS backend.
-- *Minimal API*: Just one function call to start speaking — speak_text(text).
+
+- **Super Fast Speech (Real-Time TTS)**: Begins speaking in just 2–3 seconds, even for extremely long texts — up to 16,000+ words.
+- **Highly Compatible**: Seamlessly works with popular TTS engines like Edge-TTS (tested), Coqui TTS, and even API-based services like ElevenLabs, Typecast.ai, and more.
+- **Streaming Playback**: Audio starts playing instantly while it’s still being generated — no delay, no wait.
+- **Engine-Agnostic Core**: Designed to plug into any TTS backend of your choice without needing major changes.
+- **Minimal API**: Just a single function call to start speaking — `speak_text(text)`.
+- **Zero-Delay Playback**: Audio plays with zero delay, It is a smart system that uses fast RAM-based buffering and a separate producer-consumer pipeline to keep things smooth and super quick.
 
 
+## ⬇️Installation
+
+You can install it from [PyPI](https://pypi.org/project/tts-accelerator/) by running the following command:
+
+```
+pip install tts-accelerator
+```
+
+Or you can install it from [source](https://github.com/RanjitDas-IN/tts-accelerator): 
+
+```
+pip install .
+```
+
+GitHub&emsp;[![GitHub Repo](https://img.shields.io/badge/GitHub__Repo-black?logo=github&style=social)](https://github.com/RanjitDas-IN/tts-accelerator)
 
