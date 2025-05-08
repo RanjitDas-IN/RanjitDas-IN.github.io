@@ -31,6 +31,8 @@ My email: ranjitdax89@gmail.com
 - [⬇️ Installation](#installation)
 - [📚 Examples](#examples)
 - [📚 Requirements](#requirements)
+- [📖 Documentation](#documentation)
+- [📝 License](#license)
 
 
 ## 💡Insight
@@ -85,3 +87,17 @@ tts.speak_text(text)
 ## 📦Requirements
 
 - Python _v3.8+_
+
+## 📖Documentation
+
+https://tts-accelerator.readthedocs.io/
+
+---
+
+## 📝License
+
+This project is licensed under MIT.
+
+---
+
+Made with passion and precision.
