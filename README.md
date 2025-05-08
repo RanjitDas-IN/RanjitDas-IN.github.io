@@ -1,6 +1,27 @@
 ## This repo is for testing purposes only
 ---
 
+## ❓Why Use This?
+
+Most TTS systems force you to wait while they generate the entire audio file — especially for long texts — before playback starts.
+
+That’s slow, frustrating, and unusable for real-time apps.
+
+*TTS Accelerator solves this by streaming audio in real time.*  
+It starts playback in just 2–3 seconds, even for huge texts. No disk I/O, no waiting — just seamless, instant voice output.  
+Perfect for:
+- Voice assistants
+- Chatbots
+- Narration tools
+- Live reading apps
+---
+
+## 📖 Quick Index
+
+- [💡 Insight](#insight)
+- [✨ Key Features](#key-features)
+- [🚀 What Problem It Solves](#Why-Use-This?)
+<!---
 ## TTS Accelerator
 
 > *Real-time natural speech generation in seconds, even for extremely long sentences up to 16k words.*
