@@ -1,6 +1,11 @@
 # Ihis repo is for testing purposes only
 
 ## 📖 Quick Index
+- listen
+
+
+[tts.webm](https://github.com/user-attachments/assets/b4411999-2cda-42c9-a1d9-e936391eab30)
+
 
 - [💡 Insight](#insight)
 - - [💡 Insight](#insightx)
@@ -25,6 +30,7 @@ TTS Accelerator is a smart and powerful tool that turns text into speech super f
 Most other TTS systems wait until the full audio is ready before they start, which can take ages. *But this one is different* — it starts playing while it’s still generating. So, you can hear the voice as soon as the script runs — no matter how long the text is. The result? Natural, smooth speech with no delay.
 
 ##  Insight
+
 
 
 
