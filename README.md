@@ -1,4 +1,5 @@
 ## This repo is for testing purposes only
+---
 
 ## TTS Accelerator
 
@@ -32,7 +33,7 @@ My email: ranjitdax89@gmail.com
 - [📚 Examples](#examples)
 - [📚 Requirements](#requirements)
 - [📖 Documentation](#documentation)
-- [📝 License](#license)
+- [📝 License (MIT)](#license)
 
 
 ## 💡Insight
@@ -101,3 +102,5 @@ This project is licensed under MIT.
 ---
 
 Made with passion and precision.
+
+
