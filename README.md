@@ -1,6 +1,27 @@
 ## This repo is for testing purposes only
 ---
 
+
+
+## 📖 Quick Index
+
+- [💡 Insight](#insight)
+- [✨ Key Features](#key-features)
+- [🚀 What Problem It Solves](#why-use-this)
+
+
+Most TTS systems force you to wait while they generate the entire audio file — especially for long texts — before playback starts.
+
+That’s slow, frustrating, and unusable for real-time apps.Most TTS systems force you to wait while they generate the entire audio file — especially for long texts — before playback starts.
+
+That’s slow, frustrating, and unusable for real-time apps.Most TTS systems force you to wait while they generate the entire audio file — especially for long texts — before playback starts.
+
+That’s slow, frustrating, and unusable for real-time apps.Most TTS systems force you to wait while they generate the entire audio file — especially for long texts — before playback starts.
+
+That’s slow, frustrating, and unusable for real-time apps.Most TTS systems force you to wait while they generate the entire audio file — especially for long texts — before playback starts.
+
+That’s slow, frustrating, and unusable for real-time apps.
+
 ## ❓Why Use This?
 
 Most TTS systems force you to wait while they generate the entire audio file — especially for long texts — before playback starts.
@@ -15,12 +36,6 @@ Perfect for:
 - Narration tools
 - Live reading apps
 ---
-
-## 📖 Quick Index
-
-- [💡 Insight](#insight)
-- [✨ Key Features](#key-features)
-- [🚀 What Problem It Solves](#why-use-this)
 <!---
 ## TTS Accelerator
 
