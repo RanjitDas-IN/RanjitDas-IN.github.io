@@ -20,7 +20,7 @@ Perfect for:
 
 - [💡 Insight](#insight)
 - [✨ Key Features](#key-features)
-- [🚀 What Problem It Solves](#Why-Use-This?)
+- [🚀 What Problem It Solves](#why-use-this)
 <!---
 ## TTS Accelerator
 
