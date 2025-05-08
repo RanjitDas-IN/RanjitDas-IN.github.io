@@ -28,7 +28,7 @@ My email: ranjitdax89@gmail.com
 
 - [💡 Insight](#insight)
 - [✨ Key Features](#key-features)
-- [⬇️ Installation](#installation)
+- [⬇️ Installation](#-installation)
 
 
 ## 💡Insight
