@@ -1,5 +1,4 @@
 ## This repo is for testing purposes only
-
 ## TTS Accelerator
 
 > Real-time natural speech generation — even for extremely long sentences up to 16k+ words.
@@ -23,7 +22,7 @@ Feel free to reach out, open issues, or suggest ideas — we’re building this 
 
 My email: ranjitdax89@gmail.com
 ---
-## ❓Why Use This?
+## ❓What Problem It Solves
 
 Most TTS systems force you to wait while they generate the entire audio file — especially for long texts — before playback starts.
 
@@ -42,7 +41,7 @@ Perfect for:
 
 - [💡 Insight](#insight)
 - [✨ Key Features](#key-features)
-- [🚀 What Problem It Solves](#why-use-this)
+- [❓ What Problem It Solves](#what-problem-it-solves)
 - [🧠Why I Made This Library](#why-i-made-this-library)
 - [⬇️ Installation](#installation)
 - [📚 Examples](#examples)
